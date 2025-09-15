@@ -1,0 +1,5 @@
+{
+  "name": "TechDocs AI Generator",
+  "description": "A specialized tool to generate high-quality technical documentation, such as API guides, code comments, and README sections, using generative AI. Customize the output with parameters for tone, language, and length.",
+  "requestFramePermissions": []
+}
